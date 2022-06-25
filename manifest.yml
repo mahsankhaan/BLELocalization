@@ -1,0 +1,5 @@
+applications:
+  - name: my-demo
+    instances: 1
+    memory: 2G
+    buildback: java_buildpack
